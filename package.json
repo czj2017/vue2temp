@@ -1,5 +1,7 @@
 {
-  "name": "vue2template",
+  "name": "{{project}}",
+  "author": "{{author}}",
+  "description": "{{description}}",
   "version": "0.1.0",
   "private": true,
   "scripts": {
